@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shrikant-Portfolio/static/css/main.024a71cd.css",
+    "main.js": "/Shrikant-Portfolio/static/js/main.d1a95c05.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Shrikant-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/check.jpg": "/Shrikant-Portfolio/static/media/check.6d4786f04c033456fcc6.jpg",
+    "static/media/home-2.png": "/Shrikant-Portfolio/static/media/home-2.0a2a0d862e01969ffdea.png",
+    "static/media/home-5.jpg": "/Shrikant-Portfolio/static/media/home-5.6c816d06152d5e44fdea.jpg",
+    "static/media/phonescreen.png": "/Shrikant-Portfolio/static/media/phonescreen.578ccfa64aab540d5ff2.png",
+    "static/media/home-4.jpg": "/Shrikant-Portfolio/static/media/home-4.c7b009fdf7dc46efa758.jpg",
+    "static/media/home-3.jpg": "/Shrikant-Portfolio/static/media/home-3.1377dc4490af5dba4975.jpg",
+    "static/media/man.jpg": "/Shrikant-Portfolio/static/media/man.082e9f442554d7ce8d1e.jpg",
+    "static/media/mobile-screen.png": "/Shrikant-Portfolio/static/media/mobile-screen.7e276abdfaba0a5a172c.png",
+    "index.html": "/Shrikant-Portfolio/index.html",
+    "main.024a71cd.css.map": "/Shrikant-Portfolio/static/css/main.024a71cd.css.map",
+    "main.d1a95c05.js.map": "/Shrikant-Portfolio/static/js/main.d1a95c05.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Shrikant-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.024a71cd.css",
+    "static/js/main.d1a95c05.js"
+  ]
+}
